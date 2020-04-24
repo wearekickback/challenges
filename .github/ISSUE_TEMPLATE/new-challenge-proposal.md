@@ -15,4 +15,4 @@ assignees: ''
 
 ## Duration and frequency
 
-## What would be the check in criteria?
+## What would be the check in criteria?
